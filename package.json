@@ -1,0 +1,10 @@
+{
+  "author": "AvianFlu <charlie@charlieistheman.com>",
+  "name": "clustertest",
+  "description": "A test application for the cluster module.",
+  "version": "0.0.0",
+  "main": "cluster.js",
+  "engines": {
+    "node": "0.6.x"
+  }
+}
